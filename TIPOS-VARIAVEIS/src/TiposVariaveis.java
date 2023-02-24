@@ -1,6 +1,6 @@
 public class TiposVariaveis {
     public static void main(String[] args) {
-
+    //Exemplo sobre os tipos de variaveis
         byte idade = 123;
         short ano = 2021;
         int cep = 21070333; // se começar com zero, talvez tenha que ser outro tipo
