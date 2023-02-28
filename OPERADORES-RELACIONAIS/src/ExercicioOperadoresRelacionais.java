@@ -15,6 +15,8 @@ public class ExercicioOperadoresRelacionais {
         long l2 = 8997l;
         byte y1 = 1;
         short h1 = 25;
+        // Operadores de Relação //
+        // == Igual , != Diferente, > Maior que, < Menor que, >= Maior ou Igual, Menor ou Igual //
 
         System.out.println("i1 é igual a i2? " + (i1 == i2));
         System.out.println("i1 é diferente de i2? " + (i1 != i2));
