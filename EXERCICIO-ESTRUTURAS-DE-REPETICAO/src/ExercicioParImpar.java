@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class ExercicioParImpar {
     public static void main(String[] args) {
+        System.out.println("Walace");
         Scanner scan = new Scanner(System.in);
 
         int quantNumeros;
@@ -24,5 +25,6 @@ public class ExercicioParImpar {
 
         System.out.println("Quantidade Par: " + quantPares);
         System.out.println("Quantidade Ímpar: " + quantImpares);
+
     }
 }
