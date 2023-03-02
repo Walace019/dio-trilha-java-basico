@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class ExercicioParImpar {
     public static void main(String[] args) {
-        System.out.println("Walace");
+
         Scanner scan = new Scanner(System.in);
 
         int quantNumeros;
